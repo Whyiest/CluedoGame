@@ -58,7 +58,7 @@ Cluedo::Cluedo() {
     Envelope *newEnvelope = new Envelope();
     m_gameCards = newEnvelope;
 
-    // Initialisation
+    // Initialisation des boutons
 
     initButtons();
 
